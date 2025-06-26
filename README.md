@@ -72,7 +72,7 @@ A charming pixel-art inspired timer app designed using modern web technologies.
 
 ##  Documentation
 
-Be sure to read the full documentation for implementation details.
+Be sure to read the full documentation inside the "egg-timer" folder for implementation details.
 
 ---
 
