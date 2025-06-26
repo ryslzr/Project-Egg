@@ -76,3 +76,14 @@ Be sure to read the full documentation inside the "egg-timer" folder for impleme
 
 ---
 
+## To open the server
+
+-Open a new terminal on your IDE
+<br/>
+-change your directory by typing "cd egg-timer"
+<br/>
+-then type "npm run dev"
+<br/>
+-click on the link and you're good to go!
+
+
